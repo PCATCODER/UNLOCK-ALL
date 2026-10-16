@@ -1,0 +1,23 @@
+{
+  "geode": "5.10.1",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "pcatcoder.unlock-all",
+  "name": "Unlock All",
+  "version": "v1.0.0",
+  "developer": "PCATCODER",
+  "description": "Unlocks every icon (then colors and effects) in your save file. Unlocks stay after the mod is removed.",
+  "settings": {
+    "unlock-colors": {
+      "type": "bool",
+      "name": "Unlock colors",
+      "default": true
+    },
+    "unlock-effects": {
+      "type": "bool",
+      "name": "Unlock trails, death effects and ship fire",
+      "default": true
+    }
+  }
+}
